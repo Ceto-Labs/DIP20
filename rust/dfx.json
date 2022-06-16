@@ -1,7 +1,7 @@
 {
   "version": 1,
   "canisters": {
-    "token": {
+    "ogy": {
       "package": "token",
       "candid": "token/token.did",
       "type": "rust"
